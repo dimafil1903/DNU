@@ -1,0 +1,5 @@
+﻿  ANKETA.cpp
+C:\Users\dimafil1903\source\repos\ANKETA\ANKETA\ANKETA.cpp(1,9): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\ANKETA\ANKETA\ANKETA.cpp(3,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\ANKETA\ANKETA\ANKETA.cpp(8,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  ANKETA.vcxproj -> C:\Users\dimafil1903\source\repos\ANKETA\Debug\ANKETA.exe

@@ -1,0 +1,4 @@
+﻿  SQUARE.cpp
+C:\Users\dimafil1903\source\repos\SQUARE\SQUARE\SQUARE.cpp(1,9): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\SQUARE\SQUARE\SQUARE.cpp(5,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  SQUARE.vcxproj -> C:\Users\dimafil1903\source\repos\SQUARE\Debug\SQUARE.exe
