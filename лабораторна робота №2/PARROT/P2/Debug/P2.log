@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dimafil1903\source\repos\P2\P2\Source.cpp(3,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\P2\P2\Source.cpp(4,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+  P2.vcxproj -> C:\Users\dimafil1903\source\repos\P2\Debug\P2.exe
