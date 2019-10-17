@@ -1,0 +1,4 @@
+﻿  SWAP3.cpp
+C:\Users\dimafil1903\source\repos\SWAP3\SWAP3\SWAP3.cpp(2,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\SWAP3\SWAP3\SWAP3.cpp(3,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+  SWAP3.vcxproj -> C:\Users\dimafil1903\source\repos\SWAP3\Debug\SWAP3.exe

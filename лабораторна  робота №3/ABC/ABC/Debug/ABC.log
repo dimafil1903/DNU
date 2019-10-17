@@ -1,0 +1,4 @@
+﻿  ABC.cpp
+C:\Users\dimafil1903\source\repos\ABC\ABC\ABC.cpp(4,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\ABC\ABC\ABC.cpp(5,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+  ABC.vcxproj -> C:\Users\dimafil1903\source\repos\ABC\Debug\ABC.exe

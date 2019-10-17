@@ -1,0 +1,4 @@
+﻿  GUESS.cpp
+C:\Users\dimafil1903\source\repos\GUESS\GUESS\GUESS.cpp(2,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\dimafil1903\source\repos\GUESS\GUESS\GUESS.cpp(3,10): warning C4067:  непредвиденные лексемы за директивой препроцессора, требуется newline
+  GUESS.vcxproj -> C:\Users\dimafil1903\source\repos\GUESS\Debug\GUESS.exe
